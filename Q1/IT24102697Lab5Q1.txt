@@ -1,0 +1,9 @@
+import java.util.scanner;
+
+public class IT24102697Lab5Q1 {
+
+	public static void main(string[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+
+	system.out.print()
